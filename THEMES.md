@@ -41,6 +41,9 @@ https://commitpulse.vercel.app/api/streak?user=YOUR_USERNAME&theme=<slug>
 | monokai          | `#272822`  | `#f8f8f2` | `#a6e22e` |
 | retro-terminal   | `#000000`  | `#00ff41` | `#00ff41` |
 | midnight_ocean   | `#020c1b`  | `#ccd6f6` | `#0af5ff` |
+| catppuccin_mocha | `#1e1e2e`  | `#cdd6f4` | `#cba6f7` |
+| rose_pine        | `#191724`  | `#e0def4` | `#c4a7e7` |
+| ayu_mirage       | `#212733`  | `#D9D7CE` | `#FFCC66` |
 
 ---
 
@@ -393,6 +396,40 @@ https://commitpulse.vercel.app/api/streak?user=YOUR_USERNAME&theme=<slug>
 | `accent`  | 0af5ff |
 
 ---
+
+### Catppuccin Mocha
+
+![catppuccin_mocha](https://commitpulse.vercel.app/api/streak?user=jhasourav07&theme=catppuccin_mocha)
+
+| Parameter | Value  |
+| --------- | ------ |
+| `bg`      | 1e1e2e |
+| `text`    | cdd6f4 |
+| `accent`  | cba6f7 |
+
+---
+
+### Rose Pine
+
+![rose_pine](https://commitpulse.vercel.app/api/streak?user=jhasourav07&theme=rose_pine)
+
+| Parameter | Value  |
+| --------- | ------ |
+| `bg`      | 191724 |
+| `text`    | e0def4 |
+| `accent`  | c4a7e7 |
+
+---
+
+### Ayu Mirage
+
+![ayu_mirage](https://commitpulse.vercel.app/api/streak?user=jhasourav07&theme=ayu_mirage)
+
+| Parameter | Value  |
+| --------- | ------ |
+| `bg`      | 212733 |
+| `text`    | D9D7CE |
+| `accent`  | FFCC66 |
 
 ## Custom Theme
 
