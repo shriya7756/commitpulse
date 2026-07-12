@@ -41,6 +41,7 @@ https://commitpulse.vercel.app/api/streak?user=YOUR_USERNAME&theme=<slug>
 | monokai          | `#272822`  | `#f8f8f2` | `#a6e22e` |
 | retro-terminal   | `#000000`  | `#00ff41` | `#00ff41` |
 | midnight_ocean   | `#020c1b`  | `#ccd6f6` | `#0af5ff` |
+| rose_pine        | `#191724`  | `#e0def4` | `#c4a7e7` |
 
 ---
 
@@ -393,6 +394,16 @@ https://commitpulse.vercel.app/api/streak?user=YOUR_USERNAME&theme=<slug>
 | `accent`  | 0af5ff |
 
 ---
+
+### Rose Pine
+
+![rose_pine](https://commitpulse.vercel.app/api/streak?user=jhasourav07&theme=rose_pine)
+
+| Parameter | Value  |
+| --------- | ------ |
+| `bg`      | 191724 |
+| `text`    | e0def4 |
+| `accent`  | c4a7e7 |
 
 ## Custom Theme
 
